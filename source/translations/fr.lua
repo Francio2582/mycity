@@ -1,6 +1,6 @@
 lang.fr = {
     item_crystal_green = "Cristal Vert",
-    item_fish_RuntyGuppy = "Runty Guppy",
+    item_fish_RuntyGuppy = "Petit Runty",
     landVehicles = "Terre",
     item_pumpkinSeed = "Graine de citrouille",
     item_garlic = "Ail",
@@ -104,7 +104,7 @@ lang.fr = {
     leisure = "Loisir",
     closed_market = "Le magasin est fermé. Revenez à l'aube.",
     pizzaMaker = "Pizzaiolo",
-    use = "Utilise",
+    use = "Utiliser",
     confirmButton_Great = "Génial !",
     item_clock = "Horloge",
     rewardText = "Vous avez reçu une incroyable récompense!",
@@ -341,7 +341,7 @@ lang.fr = {
                 _add = "Allez sur l'île."
             },
             [7] = {
-                dialog = "Enfin! Vous devriez faire plus attention, J'aurais pu carrément regarder un film pendant que je t'attendais.\nVoulez-vous toujours voir le magasin? Je vais là-bas!",
+                dialog = "Enfin! Tu devrais faire plus attention, J'aurais pu carrément regarder un film pendant que je t'attendais.\nVeux-tu toujours voir le magasin? Je vais là-bas!",
                 _add = "Apportez la clé à Indy."
             },
             [1] = {
@@ -613,7 +613,7 @@ lang.fr = {
     item_pepperSeed = "Graine de piment",
     item_energyDrink_Mega = "Fanta",
     npcDialog_Derek = "Psst.. Nous allons faire quelque chose de gros ce soir: Nous allons braquer la banque.\nSi tu veux nous rejoindre, tu ferais mieux de parler à notre patron Pablo.",
-    harvest = "Récoltes",
+    harvest = "Récolter",
     furniture_scarecrow = "Épouvantail",
     profile_seedsPlanted = "Cultures",
     collectorItem = "Objet collector",
